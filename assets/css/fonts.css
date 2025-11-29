@@ -1,0 +1,36 @@
+/* Fonts - فونت ایران یکان */
+@font-face {
+    font-family: 'IranYekan';
+    src: url('../fonts/IranYekan/iranyekanwebregularfanum.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'IranYekan';
+    src: url('../fonts/IranYekan/iranyekanweblightfanum.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'IranYekan';
+    src: url('../fonts/IranYekan/iranyekanwebmediumfanum.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'IranYekan';
+    src: url('../fonts/IranYekan/iranyekanwebboldfanum.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'IranYekan';
+    src: url('../fonts/IranYekan/iranyekanwebblackfanum.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+

@@ -1,0 +1,12 @@
+/* CSS Variables - متغیرهای مشترک */
+:root {
+    --primary-color: #8b5cf6;
+    --secondary-color: #ec4899;
+    --dark-color: #6d28d9;
+    --light-color: #a78bfa;
+    --text-dark: #1a1a1a;
+    --text-light: #666;
+    --white: #ffffff;
+    --shadow: rgba(0, 0, 0, 0.1);
+}
+
