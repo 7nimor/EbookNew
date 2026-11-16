@@ -1,12 +1,23 @@
-/* CSS Variables - متغیرهای مشترک */
 :root {
-    --primary-color: #8b5cf6;
-    --secondary-color: #ec4899;
-    --dark-color: #6d28d9;
-    --light-color: #a78bfa;
-    --text-dark: #1a1a1a;
-    --text-light: #666;
+    --primary: #0f766e;
+    --primary-dark: #0d5c56;
+    --primary-soft: #14b8a6;
+    --accent: #ea580c;
+    --accent-soft: #fb923c;
+    --ink: #0f172a;
+    --ink-soft: #334155;
+    --muted: #64748b;
+    --surface: #ffffff;
+    --surface-soft: #f0fdfa;
+    --line: rgba(15, 23, 42, 0.08);
     --white: #ffffff;
-    --shadow: rgba(0, 0, 0, 0.1);
+    --shadow-sm: 0 8px 24px rgba(15, 23, 42, 0.08);
+    --shadow-md: 0 18px 48px rgba(15, 23, 42, 0.12);
+    --radius-lg: 28px;
+    --radius-md: 18px;
+    --radius-sm: 12px;
+    --container: 1120px;
+    --pad: clamp(1rem, 4vw, 2rem);
+    --section-y: clamp(3.5rem, 8vw, 6.5rem);
+    --ease: cubic-bezier(0.22, 1, 0.36, 1);
 }
-
