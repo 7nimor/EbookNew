@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://7nimor.github.io/EbookNew/sitemap.xml
